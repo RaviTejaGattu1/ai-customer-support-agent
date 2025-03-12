@@ -113,4 +113,9 @@ Week 2’s coming with:
 - **System Design**: Local setup preps for distributed systems. 🌐
 - **Fun Factor**: It’s a chatbot with customer obsession 😄
 
+## DEMO
+
+https://github.com/user-attachments/assets/734bed52-29e0-4fbb-8e1c-eeb8567e398e
+
+
  🎉
