@@ -6,7 +6,7 @@ Welcome to the **AI Customer Support Agent**—your friendly, Flask-powered chat
 This is a local web app that:
 - 🚚 **Retrieves answers** from an FAQ file using RAG (Retrieval-Augmented Generation).
 - 🧠 **Thinks** with a simple LLM (distilgpt2 for now—more brains later!).
-- 🛠️ **Orchestrates** workflows with LangGraph.
+- 🛠️ **Orchestrates** agentic workflows with LangGraph.
 - 🌐 **Serves** it all via Flask on `http://127.0.0.1:5000/`.
 
 Week 1 nails the basics: ask it stuff, get answers, or get escalated if it’s clueless or urgent! 😎
